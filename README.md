@@ -31,3 +31,7 @@ git clone git@github.com:jamieallen59/JQuery_selector_engine.git
 cd JQuery_selector_engine
 open Answer.js
 ```
+
+Limitations
+-----------
+It might not work with longer variations of selectors, or with for example, two classes as a selector.
