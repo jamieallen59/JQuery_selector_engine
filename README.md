@@ -1,9 +1,11 @@
 JQuery selector engine
 ======================
 
+![](jquery.png)
+
 JQuery uses CSS selectors to pick certain elements out from the DOM and manipulate them using methods.
 
-I have replicated the selector model here so that you can enter any of these combinations of selector:
+I have replicated the selector model here so that you can enter any of these combinations:
 
 - $("div")
 - $("img.some_class")
