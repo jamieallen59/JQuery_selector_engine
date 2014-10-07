@@ -17,10 +17,17 @@ I have replicated the selector model here so that you can enter any of these com
 
 And it will pick the relevant DOM object out and put it into an array for you.
 
-Run the tests:
+####Run the tests:
 ```sh
 git clone git@github.com:jamieallen59/JQuery_selector_engine.git
 cd JQuery_selector_engine
 open Test.html
 ```
 Right click and "Inspect Element" on that page, then go to Console.
+
+####Have a look at the code
+```sh
+git clone git@github.com:jamieallen59/JQuery_selector_engine.git
+cd JQuery_selector_engine
+open Answer.js
+```
