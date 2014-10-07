@@ -114,7 +114,6 @@ var selectorType = function(selector) {
 		//it must just be a tag
 		else {
 			matchTagWithDOM(selector.charAt(selector.length))
-			//use concat.apply to flatten the elements array
 			pushIntoElements(elementArray);
 		};
 	}
