@@ -44,7 +44,7 @@ var matchClassWithDOM = function() {
 		nodeListConverter(classMatch);
 };
 
-//To match an extracted class with DOM and return an array
+//To match an extracted tag with DOM and return an array
 var matchTagWithDOM = function(tag_character) {
 		extractTagNameFrom(selector, tag_character);
 		var tagMatch = document.getElementsByTagName(tagName);
